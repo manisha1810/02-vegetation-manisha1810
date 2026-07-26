@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=24266616)
 # ESIIL Data Short Course Coding Challenge 2: Irrigation in Saudi Arabia
 
 Track the growth of groundwater irrigation in the Al Jawf region of Saudi Arabia using remote sensing.
